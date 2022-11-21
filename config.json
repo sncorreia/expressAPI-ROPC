@@ -1,0 +1,10 @@
+{
+    "azuread": {
+        "automationUsername": "<username>",
+        "automationPassword": "<user_password>",
+        "clientID": "<client_id>",
+        "tenantId": "<tenant_id>",
+        "aadEndpoint": "https://login.microsoftonline.com/",
+        "graphEndpoint": "https://graph.microsoft.com/"
+    }
+}
